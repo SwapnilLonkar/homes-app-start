@@ -13,7 +13,11 @@
 
 - Install the depencies
 
-  `npm install` 
+  `npm install`
+
+- Run Json server
+`json-server --watch db.json`
+  
 
 - Run the application 
 
